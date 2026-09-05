@@ -1,6 +1,6 @@
 # Rename.sys — Bulk File Renamer
 
-A single-file, browser-based tool for renaming large batches of files at once, styled like a retro green-on-black terminal.
+A single-file, browser-based tool for renaming large batches of files at once, styled like a retro crt terminal.
 
 ## Tech Stack
 
