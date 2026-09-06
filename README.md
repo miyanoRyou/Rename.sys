@@ -21,7 +21,7 @@ This tool is built for anyone who regularly has to rename large batches of files
 - **Marketing/content teams** standardizing file names before upload to a DAM or CMS
 - **Anyone** who's ever had to manually rename 50+ files one at a time in File Explorer/Finder
 
-If you find yourself selecting files, hitting F2, and typing similar names over and over — this replaces that entire workflow with one pass.
+If you find yourself selecting files, hitting F2, and typing similar names over and over. This replaces that entire workflow with one pass.
 
 ## How to Use It
 
@@ -43,5 +43,3 @@ If you find yourself selecting files, hitting F2, and typing similar names over 
    - **Numbering** — set the starting number (**Start at**) and how many digits to pad it to (**Digits**, e.g. `3` → `001`, `002`…).
 6. **Check the live preview.** As you adjust settings, the file list updates in real time showing the current name → new name for every selected file, so you can confirm it looks right before committing.
 7. **Apply the renames.** Click **"Apply renames"**. The tool renames each selected file directly in the folder and reports how many succeeded (and flags any that failed).
-
-**Tip:** Nothing is renamed until you click "Apply renames" — feel free to experiment with Find/Replace, case transforms, and templates freely; the preview is non-destructive.
